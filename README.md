@@ -1,4 +1,14 @@
-### Hi there 👋
+## 안녕하세요? bada3670입니다. | Hello! This is bada3670.
+
+### 💼 프로젝트 저장소는 다음과 같습니다. | These are repositories for projects.
+
+[ShareGround](https://github.com/bada3670/ShareGround), [ShareGround2](https://github.com/bada3670/ShareGround2), [chat-app](https://github.com/bada3670/chat-app), [React-Shop-update](https://github.com/bada3670/React-Shop-update), [d-day-checker](https://github.com/bada3670/d-day-checker)
+
+\* I am sorry but English versions are not ready yet.
+
+### ✏ 공부용 저장소는 다음과 같습니다. | These are repositories for studying.
+
+[nextjs-mock](https://github.com/bada3670/nextjs-mock), [webpack](https://github.com/bada3670/webpack), [React-without-toolchain](https://github.com/bada3670/React-without-toolchain), [Babel](https://github.com/bada3670/Babel), [Mongoose-basic](https://github.com/bada3670/Mongoose-basic), [SQL-JOIN](https://github.com/bada3670/SQL-JOIN), [PostCSS](https://github.com/bada3670/PostCSS)
 
 <!--
 **bada3670/bada3670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
