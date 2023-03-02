@@ -8,7 +8,7 @@
 
 ### ✏ 공부용 저장소는 다음과 같습니다. | These are repositories for studying.
 
-[nextjs-mock](https://github.com/bada3670/nextjs-mock), [webpack](https://github.com/bada3670/webpack), [React-without-toolchain](https://github.com/bada3670/React-without-toolchain), [Babel](https://github.com/bada3670/Babel), [Mongoose-basic](https://github.com/bada3670/Mongoose-basic), [SQL-JOIN](https://github.com/bada3670/SQL-JOIN), [PostCSS](https://github.com/bada3670/PostCSS)
+[Vite](https://github.com/bada3670/Vite), [nextjs-mock](https://github.com/bada3670/nextjs-mock), [webpack](https://github.com/bada3670/webpack), [React-without-toolchain](https://github.com/bada3670/React-without-toolchain), [Babel](https://github.com/bada3670/Babel), [Mongoose-basic](https://github.com/bada3670/Mongoose-basic), [SQL-JOIN](https://github.com/bada3670/SQL-JOIN), [PostCSS](https://github.com/bada3670/PostCSS)
 
 <!--
 **bada3670/bada3670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
